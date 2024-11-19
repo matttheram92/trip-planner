@@ -1,11 +1,24 @@
 {
   "Version": 1,
-  "Hash": "tGfg/JjhizL+NC6q6RBkGdM2ltrSxn5AicfKbQ4JA6Y=",
+  "Hash": "BXAFXsbV1opbBVoRmpaMUoIqZ0SKKae6/mfR/ApituI=",
   "Source": "TripPlanner.Server",
   "BasePath": "_content/TripPlanner.Server",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\tripplanner.client\\tripplanner.client.esproj",
+      "Version": 2,
+      "Source": "tripplanner.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

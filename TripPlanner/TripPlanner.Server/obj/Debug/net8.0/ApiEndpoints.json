@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TripPlanner.Server.Controllers.TripsController",
+    "Method": "GetAllTrips",
+    "RelativePath": "api/Trips",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

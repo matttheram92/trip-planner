@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "TripPlanner.Server",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Trips": {
+      "get": {
+        "tags": [
+          "Trips"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
