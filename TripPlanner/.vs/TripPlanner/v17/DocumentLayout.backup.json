@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5254A43-5205-4281-8E53-519262F6A769}|TripPlanner.Server\\TripPlanner.Server.csproj|c:\\users\\masmith\\repos\\trip-planner\\tripplanner\\tripplanner.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5254A43-5205-4281-8E53-519262F6A769}|TripPlanner.Server\\TripPlanner.Server.csproj|solutionrelative:tripplanner.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5254A43-5205-4281-8E53-519262F6A769}|TripPlanner.Server\\TripPlanner.Server.csproj|c:\\users\\masmith\\repos\\trip-planner\\tripplanner\\tripplanner.server\\tripplanner.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5254A43-5205-4281-8E53-519262F6A769}|TripPlanner.Server\\TripPlanner.Server.csproj|solutionrelative:tripplanner.server\\tripplanner.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\TripPlanner.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TripPlanner.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\TripPlanner.Server\\Program.cs",
+              "RelativeToolTip": "TripPlanner.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:02:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripPlanner.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\TripPlanner.Server\\TripPlanner.Server.csproj",
+              "RelativeDocumentMoniker": "TripPlanner.Server\\TripPlanner.Server.csproj",
+              "ToolTip": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\TripPlanner.Server\\TripPlanner.Server.csproj",
+              "RelativeToolTip": "TripPlanner.Server\\TripPlanner.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T15:21:57.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

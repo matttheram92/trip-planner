@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\masmith\\repos\\trip-planner\\TripPlanner\\TripPlanner.Server",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

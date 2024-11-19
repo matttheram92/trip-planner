@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tGfg/JjhizL+NC6q6RBkGdM2ltrSxn5AicfKbQ4JA6Y=",
+  "Source": "TripPlanner.Server",
+  "BasePath": "_content/TripPlanner.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

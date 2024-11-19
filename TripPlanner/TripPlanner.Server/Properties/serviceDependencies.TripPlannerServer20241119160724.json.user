@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-11-19T16:27:47.3987153Z"
+    },
+    "apis2": {
+      "restored": true,
+      "restoreTime": "2024-11-19T16:45:19.1404454Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-11-19T17:33:04.1891918Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "164fd37c-efad-4945-9be8-46b410731e72"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TripPlannerServer20241119160724ResourceGroup"
+    },
+    "apis2.subscriptionId": {
+      "Name": "apis2.subscriptionId",
+      "Type": "subscription",
+      "Value": "164fd37c-efad-4945-9be8-46b410731e72"
+    },
+    "apis2.resourceGroupName": {
+      "Name": "apis2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TripPlannerServer20241119160724ResourceGroup"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TripPlannerServer20241119160724ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "164fd37c-efad-4945-9be8-46b410731e72"
+    }
+  }
+}

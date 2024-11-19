@@ -1,0 +1,18 @@
+<div>
+  <h1>Hello World!</h1>
+  <table *ngIf="trips && trips.length > 0">
+    <thead>
+      <tr>
+        <th scope="col">Trip</th>
+        <th scope="col">Days</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let trip of trips">
+        <td>{{ trip.name }}</td>
+        <td>{{ trip.days }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <p *ngIf="!trips || trips.length === 0">No trips found</p>
+</div>
